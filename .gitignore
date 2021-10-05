@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # images folder
-/images
+project template.drawio.png
